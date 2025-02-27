@@ -164,7 +164,7 @@ Selecionei algumas informações importantes e adicionei no arquivo [CONTRIBUTIN
 
 - Não descobri por que o modo watch não está funcionando enquanto uso docker, as alterações na maquina são refletidas dentro do docker pelo volume, porém o webpack não re-compila quando ocorre as alterações.
 
-Fico a disposição para tirar dúvidas e sempre estarei aberto a criticas construtivas e sugestões de melhorias, obrigado pela atenção!
+Fico a disposição para tirar dúvidas e sempre estarei aberto a criticas construtivas e sugestões de melhorias, obrigado pela atenção!.
 
 Contato: gabrieldnrodrigues@gmail.com
 Linkedin: https://www.linkedin.com/in/gabrieldissotti/
